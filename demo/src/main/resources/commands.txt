@@ -1,0 +1,15 @@
+open chrome 
+close chrome 
+
+
+open notepad
+close notepad
+
+
+open Youtube
+close Youtube
+
+play music 
+close music
+
+shutdown
